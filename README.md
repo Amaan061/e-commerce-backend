@@ -12,10 +12,10 @@ This is the backend of an e-commerce website built using the MERN stack (MongoDB
 - **JWT (JSON Web Tokens)**: For authentication and authorization.
 
 ## Installation
-1. Clone the repository:
+1. -Clone the repository:
 
-   -open the terminal and type
+2. -open the terminal and type
 
-   -git clone https://github.com/Amaan061/e-commerce-backend.git
-   
-   -cd e-commerce-backend
+3. -git clone https://github.com/Amaan061/e-commerce-backend.git
+
+4. -cd e-commerce-backend
