@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "express": "^4.21.0",
+    "method-override": "^3.0.0",
     "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
   }
 }
